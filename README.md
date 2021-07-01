@@ -1,0 +1,2 @@
+# SXIQTENFIVE
+Purpose: With the recent popularity, many companies have turned to creating/using apps to encourage social distancing. This app will be used by fitness centers/gym, providing a platform for members to book their location in the gym in advance, be able to track their weight, view their activity history and distribution, etc. The current project is still under development, and the functions will be improved in the future. If you encounter problems during the test, please contact me
